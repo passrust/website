@@ -11,8 +11,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>OnConf (Template 8)</title>
-        <meta property="og:title" content="OnConf (Template 8)" />
+        <title>PassRust</title>
+        <meta property="og:title" content="PassRust (Template 8)" />
       </Helmet>
       <section className="home-hero">
         <div className="home-background">
@@ -28,7 +28,7 @@ const Home = (props) => {
           />
         </div>
         <header data-thq="thq-navbar" className="home-navbar">
-          <h2 className="home-text">OnConf</h2>
+          <h2 className="home-text">PassRust</h2>
           <div
             data-thq="thq-navbar-nav"
             data-role="Nav"
@@ -63,7 +63,7 @@ const Home = (props) => {
               className="home-nav1"
             >
               <div className="home-container01">
-                <h2 className="home-text02">OnConf</h2>
+                <h2 className="home-text02">PassRust</h2>
                 <div data-thq="thq-close-menu" className="home-menu-close">
                   <svg viewBox="0 0 1024 1024" className="home-icon04">
                     <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
@@ -117,14 +117,14 @@ const Home = (props) => {
         </header>
         <div className="home-hero-content">
           <h1 className="home-text08">
-            World&apos;s Largest Online Conference
+            World&apos;s Fastest And Most Secure Password Manager
           </h1>
           <div className="home-caption">
             <button className="button-style-1 button home-register2">
-              <span className="home-text09">Register now</span>
+              <span className="home-text09">Request A Demo</span>
             </button>
             <p className="home-caption01">
-              22—24 November 2023 / OnConf.template
+              On-Prem / Cloud
             </p>
           </div>
         </div>
@@ -133,8 +133,7 @@ const Home = (props) => {
         <div className="home-first">
           <div data-aos="fade-up-right" className="home-content">
             <h2 className="home-header">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod.
+              Next Generation Password Manager with Speed And Security All In One place. 
               <span
                 dangerouslySetInnerHTML={{
                   __html: ' ',
@@ -145,16 +144,13 @@ const Home = (props) => {
               <div className="home-note">
                 <div className="home-point"></div>
                 <p className="home-text10">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  PassRust has been made to be reliable and fast.
                 </p>
               </div>
               <div className="home-note1">
                 <div className="home-point01"></div>
                 <p className="home-text11">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  PassRust puts manageability and security and speed all in a one place.
                 </p>
               </div>
             </div>
@@ -196,7 +192,7 @@ const Home = (props) => {
             />
             <div className="home-details">
               <span className="home-name">Andy Smith</span>
-              <span className="home-from">(Founder OnConf)</span>
+              <span className="home-from">(Founder PassRust)</span>
             </div>
           </div>
         </div>
@@ -277,7 +273,7 @@ const Home = (props) => {
       <section className="home-watch">
         <div className="home-content03">
           <h2 className="home-header03">
-            Watch our Watch our OnConf 2022 trailer
+            Watch our Watch our PassRust 2022 trailer
           </h2>
           <div className="home-video">
             <video
@@ -767,7 +763,7 @@ tabButtons.forEach((tabButton, index) => {
             <p className="home-text49">04</p>
           </div>
           <div data-aos="fade-right" className="home-heading3">
-            <h2 className="home-title16">Why OnConf</h2>
+            <h2 className="home-title16">Why PassRust</h2>
             <p className="home-caption18">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -976,7 +972,7 @@ tabButtons.forEach((tabButton, index) => {
         </section>
         <section className="home-join">
           <h2 className="home-title21">
-            Join us at OnConf on November 22-24
+            Join us at PassRust on November 22-24
             <span
               dangerouslySetInnerHTML={{
                 __html: ' ',
@@ -1322,7 +1318,7 @@ tabButtons.forEach((tabButton, index) => {
       <section className="home-subscribe">
         <div className="home-main14">
           <h2 className="home-header17">
-            Subscribe to our newsletter for the latest OnConf news
+            Subscribe to our newsletter for the latest PassRust news
           </h2>
           <div className="home-content11">
             <div className="home-inputs">
@@ -1343,7 +1339,7 @@ tabButtons.forEach((tabButton, index) => {
             </div>
             <span className="home-text55">
               By submitting, you agree to receive email communications from
-              OnConf, including upcoming promotions and discounted tickets,
+              PassRust, including upcoming promotions and discounted tickets,
               news, and access to exclusive invite-only events.
             </span>
             <button className="home-button14 button">
@@ -1358,7 +1354,7 @@ tabButtons.forEach((tabButton, index) => {
       <footer className="home-footer">
         <div className="home-content12">
           <div className="home-details25">
-            <h2 className="home-title25">OnConf</h2>
+            <h2 className="home-title25">PassRust</h2>
             <p className="home-description09">
               Product Calgary brings professionals together to connect, learn
               from each other, find opportunities, and find talent. We started
@@ -1394,7 +1390,7 @@ tabButtons.forEach((tabButton, index) => {
             </a>
           </div>
           <span className="home-copyright">
-            Privacy — Terms &amp; Conditions — Code of Conduct © 2022 OnConf All
+            Privacy — Terms &amp; Conditions — Code of Conduct © 2022 PassRust All
             Rights Reserved
           </span>
         </div>
